@@ -1,0 +1,12 @@
+
+================================================================
+======== txAdmin Starting - 07/05/2023, 21:43:51                
+================================================================
+[21:44:21][Peelthepeanut] created admins file
+[21:44:23][Peelthepeanut] logged in from 127.0.0.1 via password
+[21:48:36][Peelthepeanut] Changing global settings via setup stepper and started Deployer.
+[21:48:45][Peelthepeanut] Setting recipe.
+[21:49:55][Peelthepeanut] Running recipe.
+[21:55:19][Peelthepeanut] Completed and committed server deploy.
+[21:57:02][Peelthepeanut] logged in from 127.0.0.1 via password
+[22:02:30][Peelthepeanut] logged in via in-game ui

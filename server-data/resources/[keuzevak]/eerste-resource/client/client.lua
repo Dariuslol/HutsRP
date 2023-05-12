@@ -21,7 +21,6 @@ RegisterCommand('+explode', function() -- Function called when key is released
     AddExplosion(coords.x, coords.y, coords.z, 9, 0.9, true, true, 1065353216)
 end, false)
 
--- vector3(197.03, -932.71, 30.69)
 
 
 --					Command     Description  Input      Key
@@ -62,11 +61,20 @@ CreateThread(function() 									-- We don't want to block the main thread, crea
 				if dist < 1.0 then -- Only show text if player is close enough
 					DrawText3D(TakePoint.x, TakePoint.y, TakePoint.z, "~g~E~s~ - Pak Neon")
                     if IsControlJustPressed(0, 38) then
-                        print(IsPedInAnyVehicle(PlayerPedId(), false) and GetPedInVehicleSeat(GetVehiclePedIsIn(PlayerPedId()), -1) == PlayerPedId())
-                        if IsPedInAnyVehicle(PlayerPedId(), false) and GetPedInVehicleSeat(GetVehiclePedIsIn(PlayerPedId()), -1) == PlayerPedId()  then
-                            TriggerServerEvent('eerste-resource:server:krijgBorg', Borg)
+                        if IsPedInAnyVehicle(PlayerPedId(), false) and GetPedInVehicleSeat(GetVehiclePedIsIn(PlayerPedId()), -1) == PlayerPedId()  then --check if someone is in car and in driver seat
+                            QBCore.Functions.TriggerCallback('eerste-resource:server:krijgBorg', function()
+								print("hello client")
+								QBCore.Functions.DeleteVehicle(GetVehiclePedIsIn(PlayerPedId()))
+							end, Borg)
                         else
-                            TriggerServerEvent('eerste-resource:server:betaalBorg', Borg)
+                            QBCore.Functions.TriggerCallback('eerste-resource:server:betaalBorg', function(result)
+								print(result)
+								QBCore.Functions.SpawnVehicle('neon', function(veh)                    			-- Spawn vehicle
+									exports['LegacyFuel']:SetFuel(veh, 100.0)                         			-- Set fuel to 100%
+									TriggerEvent("vehiclekeys:client:SetOwner", QBCore.Functions.GetPlate(veh)) -- Set vehicle owner
+									SetVehicleEngineOn(veh, true, true, false)                         			-- Turn engine on
+								end, SpawnPoint, true, true)  			
+							end, Borg)
                         end
                     end
 				end
@@ -80,20 +88,9 @@ CreateThread(function() 									-- We don't want to block the main thread, crea
 end)
 
 
-RegisterNetEvent('eerste-resource:client:spawnNeon', function()
-    print("hello client")
-    QBCore.Functions.SpawnVehicle('neon', function(veh)                    			-- Spawn vehicle
-        exports['LegacyFuel']:SetFuel(veh, 100.0)                         			-- Set fuel to 100%
-        TriggerEvent("vehiclekeys:client:SetOwner", QBCore.Functions.GetPlate(veh)) -- Set vehicle owner
-        SetVehicleEngineOn(veh, true, true, false)                         			-- Turn engine on
-    end, SpawnPoint, true, true)  
 
-end)
 
-RegisterNetEvent('eerste-resource:client:despawnNeon', function()
-    print("hello client")
-    QBCore.Functions.DeleteVehicle(GetVehiclePedIsIn(PlayerPedId()))
-end)
+
 
 RegisterNetEvent('test')
 AddEventHandler('test', function(var)

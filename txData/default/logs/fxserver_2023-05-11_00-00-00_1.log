@@ -1,0 +1,900 @@
+
+================================================================
+======== Log Rotated - 11/05/2023, 17:29:31                     
+================================================================
+
+================================================================
+======== FXServer Starting - 11/05/2023, 17:29:33               
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[           resources] Scanning resources.
+[           resources] Found 108 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] [0mCreating script environments for monitor
+[      script:monitor] [txAdminClient] Version 5.2.0 starting...
+[           resources] [97mStarted resource monitor
+[    c-scripting-core] [0mCreating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for qb-core
+[           resources] Started resource qb-core
+[           resources] Started resource menuv
+[    c-scripting-core] Creating script environments for qb-adminmenu
+[           resources] Started resource qb-adminmenu
+[    c-scripting-core] Creating script environments for qb-ambulancejob
+[           resources] Started resource qb-ambulancejob
+[           resources] Started resource qb-interior
+[    c-scripting-core] [0mCreating script environments for qb-clothing
+[           resources] Started resource qb-clothing
+[    c-scripting-core] Creating script environments for qb-weathersync
+[           resources] Started resource qb-weathersync
+[    c-scripting-core] Creating script environments for qb-apartments
+[           resources] Started resource qb-apartments
+[    c-scripting-core] Creating script environments for qb-atms
+[           resources] [97mStarted resource qb-atms
+[    c-scripting-core] Creating script environments for qb-banking
+[           resources] Started resource qb-banking
+[    c-scripting-core] Creating script environments for PolyZone
+[           resources] Started resource PolyZone
+[    c-scripting-core] Creating script environments for qb-bankrobbery
+[           resources] Started resource qb-bankrobbery
+[    c-scripting-core] Creating script environments for qb-busjob
+[           resources] Started resource qb-busjob
+[    c-scripting-core] Creating script environments for qb-cityhall
+[           resources] Started resource qb-cityhall
+[    c-scripting-core] Creating script environments for qb-commandbinding
+[           resources] Started resource qb-commandbinding
+[           resources] [0mStarted resource mhacking
+[    c-scripting-core] Creating script environments for qb-crypto
+[           resources] Started resource qb-crypto
+[    c-scripting-core] Creating script environments for qb-diving
+[           resources] Started resource qb-diving
+[    c-scripting-core] Creating script environments for qb-doorlock
+[           resources] Started resource qb-doorlock
+[    c-scripting-core] Creating script environments for qb-drugs
+[           resources] [0mStarted resource qb-drugs
+[    c-scripting-core] Creating script environments for qb-fitbit
+[           resources] Started resource qb-fitbit
+[    c-scripting-core] Creating script environments for qb-garages
+[           resources] Started resource qb-garages
+[    c-scripting-core] Creating script environments for qb-garbagejob
+[           resources] Started resource qb-garbagejob
+[    c-scripting-core] Creating script environments for qb-hotdogjob
+[           resources] Started resource qb-hotdogjob
+[           resources] Started resource qb-lockpick
+[           resources] Started resource qb-skillbar
+[    c-scripting-core] Creating script environments for qb-houserobbery
+[           resources] Started resource qb-houserobbery
+[    c-scripting-core] Creating script environments for qb-houses
+[           resources] Started resource qb-houses
+[    c-scripting-core] [97mCreating script environments for qb-hud
+[           resources] [0mStarted resource qb-hud
+[           resources] Started resource qb-input
+[    c-scripting-core] Creating script environments for qb-inventory
+[           resources] Started resource qb-inventory
+[    c-scripting-core] Creating script environments for qb-jewelery
+[           resources] Started resource qb-jewelery
+[           resources] Started resource qb-keyminigame
+[    c-scripting-core] Creating script environments for qb-lapraces
+[           resources] Started resource qb-lapraces
+[           resources] Started resource qb-loading
+[    c-scripting-core] Creating script environments for qb-management
+[           resources] Started resource qb-management
+[    c-scripting-core] Creating script environments for qb-mechanicjob
+[           resources] Started resource qb-mechanicjob
+[           resources] Started resource qb-menu
+[    c-scripting-core] Creating script environments for qb-spawn
+[           resources] Started resource qb-spawn
+[    c-scripting-core] [0mCreating script environments for qb-multicharacter
+[           resources] Started resource qb-multicharacter
+[    c-scripting-core] Creating script environments for qb-newsjob
+[           resources] Started resource qb-newsjob
+[    c-scripting-core] Creating script environments for qb-pawnshop
+[           resources] Started resource qb-pawnshop
+[    c-scripting-core] Creating script environments for qb-phone
+[           resources] Started resource qb-phone
+[    c-scripting-core] Creating script environments for qb-policejob
+[           resources] [97mStarted resource qb-policejob
+[    c-scripting-core] Creating script environments for qb-prison
+[           resources] Started resource qb-prison
+[    c-scripting-core] Creating script environments for qb-radialmenu
+[           resources] [97mStarted resource qb-radialmenu
+[    c-scripting-core] Creating script environments for qb-recyclejob
+[           resources] [0mStarted resource qb-recyclejob
+[    c-scripting-core] [97mCreating script environments for qb-scoreboard
+[           resources] Started resource qb-scoreboard
+[    c-scripting-core] Creating script environments for qb-scrapyard
+[           resources] Started resource qb-scrapyard
+[    c-scripting-core] Creating script environments for qb-shops
+[           resources] Started resource qb-shops
+[    c-scripting-core] [0mCreating script environments for qb-smallresources
+[           resources] [0mStarted resource qb-smallresources
+[    c-scripting-core] Creating script environments for qb-storerobbery
+[           resources] Started resource qb-storerobbery
+[    c-scripting-core] [0mCreating script environments for qb-streetraces
+[           resources] Started resource qb-streetraces
+[           resources] Started resource qb-target
+[    c-scripting-core] Creating script environments for qb-taxijob
+[           resources] Started resource qb-taxijob
+[    c-scripting-core] Creating script environments for qb-towjob
+[           resources] [0mStarted resource qb-towjob
+[    c-scripting-core] Creating script environments for qb-traphouse
+[           resources] Started resource qb-traphouse
+[    c-scripting-core] Creating script environments for qb-truckerjob
+[           resources] Started resource qb-truckerjob
+[    c-scripting-core] Creating script environments for qb-truckrobbery
+[           resources] Started resource qb-truckrobbery
+[    c-scripting-core] Creating script environments for qb-tunerchip
+[           resources] Started resource qb-tunerchip
+[    c-scripting-core] [0mCreating script environments for qb-vehiclefailure
+[           resources] [97mStarted resource qb-vehiclefailure
+[    c-scripting-core] Creating script environments for qb-vehiclekeys
+[           resources] [0mStarted resource qb-vehiclekeys
+[    c-scripting-core] [97mCreating script environments for qb-vehiclesales
+[           resources] Started resource qb-vehiclesales
+[    c-scripting-core] Creating script environments for qb-vehicleshop
+[           resources] Started resource qb-vehicleshop
+[    c-scripting-core] Creating script environments for qb-vineyard
+[           resources] Started resource qb-vineyard
+[    c-scripting-core] Creating script environments for qb-weapons
+[           resources] Started resource qb-weapons
+[    c-scripting-core] Creating script environments for qb-weed
+[           resources] Started resource qb-weed
+[    c-scripting-core] [97mCreating script environments for LegacyFuel
+[           resources] [97mStarted resource LegacyFuel
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for connectqueue
+[ script:connectqueue] QUEUE:  [connectqueue] Disabling hardcap 
+[           resources] Stopping resource hardcap
+[           resources] Started resource connectqueue
+[    c-scripting-core] Creating script environments for interact-sound
+[           resources] [0mStarted resource interact-sound
+[           resources] [0mStarted resource progressbar
+[    c-scripting-core] Creating script environments for rpemotes
+[     script:rpemotes] RpEmotes by TayMcKenzieNZ and MadsL loaded sucessfully.
+[     script:rpemotes] [rp] Sql Keybinding is turned off[0m, if you want to enable /emotebind, set SqlKeybinding = true in config.lua and uncomment oxmysql lines in fxmanifest.lua.
+[           resources] [0mStarted resource rpemotes
+[           resources] Started resource safecracker
+[    c-scripting-core] Creating script environments for screenshot-basic
+[           resources] Started resource screenshot-basic
+[    c-scripting-core] [0mCreating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for qb-radio
+[           resources] Started resource qb-radio
+[           resources] Started resource dealer_map
+[           resources] Started resource hospital_map
+[           resources] Started resource prison_canteen
+[resources:prison_mai] Asset prison_main/desertos_prison.ytd uses 30.5 MiB of physical memory.
+[           resources] Started resource prison_main (1 warning)
+[           resources] Started resource prison_meeting
+[     script:rpemotes] [rpemotes] Current Version: 1.1.9
+[     script:rpemotes] [rpemotes] Latest Version: 1.2.2
+[     script:rpemotes] [rpemotes] You are currently running an outdated version, please update to version 1.2.2
+[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl] [0m ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://peelthepeanut-9ed95y.users.cfx.re/
+[      script:oxmysql] Database server connection established!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+> txaReportResources
+[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+> refresh
+[           resources] Scanning resources.[0m
+[           resources] Found 1 new resources, and refreshed 0/108 resources.
+> txaReportResources
+[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+> ensure "eerste-resource"
+[           resources] [93mWarning: Resource eerste-resource does not support the current game (gta5).
+[           resources] Warning: Resource eerste-resource does not specify an `fx_version` in fxmanifest.lua.
+[ citizen-server-impl] Couldn't start resource eerste-resource.
+> txaReportResources
+[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+> ensure "eerste-resource"
+[           resources] Warning: Resource eerste-resource does not support the current game (gta5).
+[           resources] Warning: Resource eerste-resource does not specify an `fx_version` in fxmanifest.lua.
+[ citizen-server-impl] Couldn't start resource eerste-resource.
+> txaReportResources
+[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 170 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 175 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[ script:connectqueue] QUEUE: Suirad[steam:110000115fec10b] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: Suirad[steam:110000115fec10b] is loading into the server
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[script:qb-multichara] [qb-core] Suirad (Citizen ID: LYL45622) has succesfully loaded!
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+> ensure "eerste-resource"
+[           resources] Warning: Resource eerste-resource does not support the current game (gta5).
+[           resources] Warning: Resource eerste-resource does not specify an `fx_version` in fxmanifest.lua.
+[ citizen-server-impl] Couldn't start resource eerste-resource.
+> txaReportResources
+[      script:monitor] [txAdminClient][97m Sending resources list to txAdmin.
+> ensure "eerste-resource"
+[           resources] [97mWarning: Resource eerste-resource does not support the current game (gta5).
+[           resources] Warning: Resource eerste-resource does not specify an `fx_version` in fxmanifest.lua.
+[ citizen-server-impl] Couldn't start resource eerste-resource.[0m
+> txaReportResources
+[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+> ensure "eerste-resource"
+[           resources] Warning: Resource eerste-resource does not support the current game (gta5).
+[           resources] Warning: Resource eerste-resource does not specify an `fx_version` in fxmanifest.lua.
+[ citizen-server-impl] Couldn't start resource eerste-resource.
+> txaReportResources
+[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+> ensure "eerste-resource"
+[           resources] [0mWarning: Resource eerste-resource does not support the current game (gta5).
+[           resources] Warning: Resource eerste-resource does not specify an `fx_version` in fxmanifest.lua.
+[ citizen-server-impl] Couldn't start resource eerste-resource.
+> txaReportResources
+[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+> ensure "eerste-resource"
+[           resources] Warning: Resource eerste-resource does not support the current game (gta5).
+[           resources] Warning: Resource eerste-resource does not specify an `fx_version` in fxmanifest.lua.
+[ citizen-server-impl] Couldn't start resource eerste-resource.
+> txaReportResources
+[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+> refresh
+[           resources] Scanning resources.
+[           resources] Found 0 new resources, and refreshed 1/109 resources.
+> txaReportResources
+[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+> ensure "eerste-resource"
+[38;5;161m[    c-scripting-core] Creating script environments for eerste-resource
+[           resources] [97mStarted resource eerste-resource
+> txaReportResources
+[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] server thread hitch warning: timer interval of 161 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 115 milliseconds
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.[0m
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] [91mServer list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] [0msync thread hitch warning: timer interval of 115 milliseconds
+[ citizen-server-impl] [91mServer list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG][0m Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG][0m Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[38;5;134m[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] sync thread hitch warning: timer interval of 173 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ script:connectqueue] QUEUE: Suirad[steam:110000115fec10b] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: Suirad[steam:110000115fec10b] is loading into the server
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[script:qb-multichara] [qb-core] Suirad (Citizen ID: LYL45622) has succesfully loaded!
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [32m[qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[    c-scripting-core] [0mInvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler ([36m@eerste-resource/server/server.lua:5)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[    c-scripting-core] [0mInvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:4)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:4)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:4)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:4)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:4)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:4)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:4)
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:4)
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] hello there
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[script:eerste-resour] hello there
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[script:eerste-resour] hello there
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[script:eerste-resour] hello there
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[script:eerste-resour] hello there
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[script:eerste-resour] hello there
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[script:eerste-resour] hello there
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[script:eerste-resour] hello there
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] hello there
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[script:eerste-resour] hello there
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[script:eerste-resour] hello there
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[script:eerste-resour] hello there
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[script:eerste-resour] hello there
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[script:eerste-resour] hello there
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[script:eerste-resour] hello there
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[script:eerste-resour] hello there
+[    c-scripting-core] InvokeNative: execution failed: Argument at index 1 was null.
+[script:eerste-resour] SCRIPT ERROR: Execution of native 000000002f7a49e6 in script host failed: Argument at index 1 was null.
+[script:eerste-resour] > [global chunk] (TriggerClientEventInternal.lua:3)
+[script:eerste-resour] > handler (@eerste-resource/server/server.lua:5)
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] hello there
+[script:eerste-resour] hello there	10
+[script:eerste-resour] hello there	10
+[script:eerste-resour] hello there	10
+[script:eerste-resour] hello there	10
+[script:eerste-resour] hello there	10
+[script:eerste-resour] hello there	10
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] hello there	10
+[script:eerste-resour] hello there	10
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[script:eerste-resour] hello there	10
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] [0mhello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] hello there	10
+[script:eerste-resour] table: 000002B918FE2E00
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:9: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] table: 000002B918FE3D40
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:9: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] table: 000002B918FE4C80
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:9: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] table: 000002B918FE5BC0
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:9: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] table: 000002B918FE6B00
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:9: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] table: 000002B918FE7A40
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:9: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] table: 000002B918FE8980
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:9: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] table: 000002B918FE2900
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:9: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] table: 000002B918FE3840
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:9: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] table: 000002B918FE4780
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:9: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] table: 000002B918FE56C0
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:9: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] table: 000002B918FE6600
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:9: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] table: 000002B919332E00
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:9: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] table: 000002B919333D40
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:9: attempt to index a function value (global 'Player')
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:9: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:9: attempt to index a function value (global 'Player')
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] [0mhello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to index a function value (global 'Player')
+[ citizen-server-impl] [91mServer list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG][0m Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:9: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:9: attempt to index a function value (global 'Player')
+[script:eerste-resour] [0mhello there	10
+[script:eerste-resour] hello there	10
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:9: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:9: attempt to index a function value (global 'Player')
+[38;5;104m[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:9: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:10: attempt to index a function value (global 'Player')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:10: attempt to index a function value (global 'Player')
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:10: attempt to index a nil value (field 'Functions')
+[script:eerste-resour] [0mhello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:10: attempt to index a nil value (field 'Functions')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:10: attempt to index a nil value (field 'Functions')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:10: attempt to index a nil value (field 'Functions')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:10: attempt to index a nil value (field 'Functions')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:10: attempt to index a nil value (field 'Functions')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:9: attempt to index a nil value (field 'Functions')
+[script:eerste-resour] hello there	10
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:9: attempt to index a nil value (field 'Functions')
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [0m[qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] hello there	10
+[script:eerste-resour] hello there	10
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [0m[qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:15: attempt to add a 'string' with a 'number'
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:15: attempt to add a 'string' with a 'number'
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[script:eerste-resour] hello there	2000
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:14: attempt to add a 'string' with a 'number'
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:14: attempt to add a 'string' with a 'number'
+[      script:qb-core] [32m[qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:15: attempt to add a 'string' with a 'number'
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:15: attempt to add a 'string' with a 'number'
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:15: attempt to add a 'string' with a 'number'
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:15: attempt to add a 'string' with a 'number'
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [32m[qb-core:LOG] Suirad PLAYER SAVED!
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:15: attempt to add a 'string' with a 'number'
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:15: attempt to add a 'string' with a 'number'
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG][0m Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:30: attempt to call a nil value (field 'GiveMoney')
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:34: attempt to add a 'string' with a 'number'
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:34: attempt to add a 'string' with a 'number'
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:34: attempt to add a 'string' with a 'number'
+[script:eerste-resour] hello there	2000
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] [0mServer list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG][0m Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG][0m Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] server thread hitch warning: timer interval of 235 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.

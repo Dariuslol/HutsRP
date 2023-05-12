@@ -1,26 +1,24 @@
 QBCore = exports['qb-core']:GetCoreObject()
 
-RegisterNetEvent('eerste-resource:server:betaalBorg', function(hoeveelheid)
-    print('hello there', hoeveelheid)
+QBCore.Functions.CreateCallback('eerste-resource:server:betaalBorg', function(source, cb, hoeveelheid)
     local src = source
-    local Player = QBCore.Functions.GetPlayer(source)
-    TriggerClientEvent('test', -1, Player)
+    local Player = QBCore.Functions.GetPlayer(src)
+    TriggerClientEvent('test', -1, src)
     if Player ~= nil then
-        TriggerClientEvent('test', -1, 'neon-borg')
+        TriggerClientEvent('test', -1, 'passed check')
+        TriggerClientEvent('test', -1, hoeveelheid)
         local removedMoney = Player.Functions.RemoveMoney('cash', hoeveelheid, 'neon-borg')
-        TriggerClientEvent('test', -1, 'lukt')
+        TriggerClientEvent('test', -1, removedMoney)
         
         if removedMoney then
-            TriggerClientEvent('QBCore:Notify', src, 'Removed ' + hoeveelheid + ' knaken of you', 'success', 20000)
-            TriggerClientEvent('eerste-resource:client:spawnNeon', -1)
+            cb(true)
         else
-            TriggerClientEvent('test', -1, 'welloe')
             TriggerClientEvent('QBCore:Notify', src, 'You have no mooneeyyyyyyyy', 'error')
         end
     end
 end)
 
-RegisterNetEvent('eerste-resource:server:krijgBorg', function(hoeveelheid)
+QBCore.Functions.CreateCallback('eerste-resource:server:krijgBorg', function(hoeveelheid)
     print('hello there', hoeveelheid)
     local src = source
     local Player = QBCore.Functions.GetPlayer(source)

@@ -1,0 +1,204 @@
+
+================================================================
+======== Log Rotated - 12/05/2023, 00:00:00                     
+================================================================
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] [91mServer list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] [0mServer list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ script:connectqueue] QUEUE: Suirad[steam:110000115fec10b] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: Suirad[steam:110000115fec10b] is loading into the server
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[script:qb-multichara] [qb-core] Suirad (Citizen ID: LYL45622) has succesfully loaded!
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:14: attempt to add a 'string' with a 'number'
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:14: attempt to add a 'string' with a 'number'
+[script:eerste-resour] hello there	2000
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:14: attempt to add a 'string' with a 'number'
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:14: attempt to add a 'string' with a 'number'
+[script:eerste-resour] hello there	2000
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:14: attempt to add a 'string' with a 'number'
+[script:eerste-resour] hello there	2000
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] hello there	table: 000002B920122700
+[      script:qb-core] SCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:10)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string[0m
+[script:eerste-resour] hello there	table: 000002B920125680
+[      script:qb-core] SCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:10)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string
+[script:eerste-resour] hello there	table: 000002B920128600
+[      script:qb-core] SCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:10)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string
+[script:eerste-resour] hello there	table: 000002B9201273C0
+[      script:qb-core] SCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:10)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string
+[      script:qb-core] SCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:9)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[      script:qb-core] SCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:9)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string
+[      script:qb-core] SCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:9)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string
+[      script:qb-core] SCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:9)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to add a 'table' with a 'string'
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:8: attempt to add a 'table' with a 'string'
+[      script:qb-core] SCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:10)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[      script:qb-core] SCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:11)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] SCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:11)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] SCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:11)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[      script:qb-core] SCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:11)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] SCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:10)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string
+[      script:qb-core] SCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:10)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string
+[      script:qb-core] SCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:10)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string
+[      script:qb-core] SCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:10)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string
+[      script:qb-core] SCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:10)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[      script:qb-core] SCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:10)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string
+[      script:qb-core] SCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[38;5;134m[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:10)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string
+[      script:qb-core] SCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:10)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string
+[      script:qb-core] SCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:10)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:14: attempt to call a nil value (global 'cb')
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:14: attempt to call a nil value (global 'cb')
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:14: attempt to call a nil value (global 'cb')
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] SCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:10)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG][0m Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ script:connectqueue] QUEUE: Suirad[steam:110000115fec10b] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: Suirad[steam:110000115fec10b] is loading into the server
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[script:qb-multichara] [qb-core] Suirad (Citizen ID: LYL45622) has succesfully loaded!
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[      script:qb-core] [0mSCRIPT ERROR: @qb-core/server/player.lua:313: attempt to compare nil with number
+[      script:qb-core] > ref (@qb-core/server/player.lua:313)
+[      script:qb-core] > handler (@eerste-resource/server/server.lua:10)
+[script:eerste-resour] SCRIPT ERROR: error object is not a string
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:6: attempt to add a 'string' with a 'string'
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:6: attempt to add a 'string' with a 'string'
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:6: attempt to add a 'string' with a 'string'
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:6: attempt to add a 'string' with a 'string'
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:6: attempt to add a 'string' with a 'string'
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:6: attempt to add a 'string' with a 'string'
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:6: attempt to add a 'string' with a 'string'
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:6: attempt to add a 'string' with a 'string'
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:6: attempt to add a 'string' with a 'string'
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:6: attempt to add a 'string' with a 'string'
+[script:eerste-resour] SCRIPT ERROR: @eerste-resource/server/server.lua:6: attempt to add a 'string' with a 'string'
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 122 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 174 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:qb-core] [qb-core:LOG] Suirad PLAYER SAVED!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
